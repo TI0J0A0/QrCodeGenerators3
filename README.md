@@ -1,5 +1,11 @@
 # QrCodeGenerators3 🌐
 
+![Java](https://img.shields.io/badge/Java-17-blue.svg)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)
+![Dockerized](https://img.shields.io/badge/Docker-ready-blue.svg)
+![License](https://img.shields.io/github/license/TI0J0A0/QrCodeGenerators3)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+
 A simple and robust QR Code generator built with Java (Spring Boot), AWS S3 integration, and Docker support.
 
 ---
